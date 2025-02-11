@@ -1,6 +1,23 @@
-# dataCleaner
+# Data Cleaner
 
 This Python script is a versatile tool for cleaning and formatting data from various file types. Currently, it supports CSV files, with plans to add support for more file types (e.g., Excel, JSON, etc.) and additional data cleaning functionalities in future updates.
+
+## Attribution
+This project uses the following datasets:
+
+1. **Car Sales Report**  
+   - Licensed under the **Apache 2.0 License**.  
+   - The original dataset can be found on [Kaggle](https://www.kaggle.com/datasets/missionjee/car-sales-report).  
+   - Attribution: [Mission Jee](https://www.kaggle.com/missionjee).
+
+2. **Supermarket Sales**  
+   - Licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** License.  
+   - The original dataset can be found on [Kaggle](https://www.kaggle.com/datasets/yapwh1208/supermarket-sales-data).  
+   - Attribution: [Yap Wei Hong](https://www.kaggle.com/yapwh1208).  
+
+For more details about the licenses, please refer to:
+- [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0)
+- [CC BY-NC-SA 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## Features
 - **Current Features:**
